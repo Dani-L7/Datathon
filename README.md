@@ -19,5 +19,10 @@
   - Have interest in where their money goes
   - Government awards use public funds
 
-What problem are you trying to solve for the stakeholders?
-How will you solve the problem? 
+## What problem are you trying to solve for the stakeholders?
+How can we help small, women-owned, and minority-owned businesses secure Environmental Protection Agency (EPA) contract awards?
+- How can we create equal access to opportunities and advocate for fairness in the marketplace?
+
+## How will you solve the problem? 
+- Observe past data of award amounts based on other factors (company type and location)
+- Make recommendations for small, women-owned, and minority-owned companies based on these findings to increase chance of earning bigger awards
